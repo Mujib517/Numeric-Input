@@ -11,7 +11,7 @@ Setup:
 3. grunt release
 
 -------------------------------------------------------
-Get Numeric Input:
+Get Numeric Input: 
 
 1. bower install numeric-input
 
